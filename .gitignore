@@ -4,3 +4,4 @@ gnatprove/
 *.o
 auto.cgpr
 b__*
+b~*
