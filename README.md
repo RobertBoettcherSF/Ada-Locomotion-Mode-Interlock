@@ -16,6 +16,10 @@ Uses GNAT with `-gnatwa -gnat2022 -gnata`. No Alire.
 make prove   # SPARK L2 — proved clean on this package
 ```
 
+## SI units
+
+See [SI_Units.md](SI_Units.md). Mode caps remain `Speed_Cm_S` (cm/s); new physical APIs should use unit suffixes (`Speed_m_s`, …). Docs-only for this slice.
+
 ## License
 
 MIT. See `LLM_DISCLOSURE.md`.
