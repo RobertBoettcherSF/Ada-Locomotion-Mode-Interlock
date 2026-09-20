@@ -1,0 +1,6 @@
+obj/
+gnatprove/
+*.ali
+*.o
+auto.cgpr
+b__*
